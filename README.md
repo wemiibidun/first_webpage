@@ -26,7 +26,7 @@ The aim of this project was to create a responsive webpage that showcases my ski
 
 **Link to this Github project and my Blog Page Documentation:**
 
-[Book Project](https://wemiibidun.github.io/single-price-grid-component/)
+[First_Webpage](https://wemiibidun.github.io/first_webpage/)
 
 [Code With Me](http://www.wemiibidun.com/search/label/coding)
 
