@@ -3,8 +3,7 @@
 
 ## Hi & Welcome! 👋
 
-This is a tindog project which I created with HTML and styled with CSS
-
+This is a sample web developer portfolio website
 
 ## Table of contents
 * [Project Aim](#project-aim)
