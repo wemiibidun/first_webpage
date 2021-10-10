@@ -11,7 +11,7 @@ This is a tindog project which I created with HTML and styled with CSS
 * [Screenshot](#screenshot)
 * [Lessons Learnt](#lessons-learnt)
 * [Take Home](#my-take-home)
-* [Link to Deployed Project](#link-to-published-resume)
+* [Link to Deployed Project](#link-to-deployed-project)
 * [Status](#status)
 * [Contact](#contact)
 
