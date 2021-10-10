@@ -37,7 +37,7 @@ The aim of this project was to create a responsive webpage that showcases my ski
 
 ## My Take Home
 
--- In this project, understanding the right `font-size` `padding` `margin` `color` and `line-height` to use for all the divs was very important. Sometimes it might take a little bit of research and trials to finally get what you need.
+- In this project, understanding the right `font-size` `padding` `margin` `color` and `line-height` to use for all the divs was very important. Sometimes it might take a little bit of research and trials to finally get what you need.
 
 - This was a fun project for me. I learnt a lot about CSS styles
 
