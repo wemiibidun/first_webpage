@@ -11,7 +11,7 @@ This is a tindog project which I created with HTML and styled with CSS
 * [Screenshot](#screenshot)
 * [Lessons Learnt](#lessons-learnt)
 * [Take Home](#my-take-home)
-* [Link to Published Resume](#link-to-published-resume)
+* [Link to Deployed Project](#link-to-published-resume)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -42,7 +42,7 @@ The aim of this project was to create a responsive webpage that showcases my ski
 - This was a fun project for me. I learnt a lot about CSS styles
 
 
-## Link to Published Resume
+## Link to Deployed Project
 [First_Webpage](https://wemiibidun.github.io/my_first_webpage/)
 
 
