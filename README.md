@@ -20,7 +20,7 @@ This is a tindog project which I created with HTML and styled with CSS
 The aim of this project was to create a responsive webpage that showcases my skills, hobbies and how to contact me 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/tin_dog_project/blob/master/tin_dog.png)
+![Sample image](https://github.com/wemiibidun/my_first_webpage/blob/master/webpage_screenshot.png)
 
 
 ## Lessons Learnt
