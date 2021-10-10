@@ -43,7 +43,7 @@ The aim of this project was to create a responsive webpage that showcases my ski
 
 
 ## Link to Deployed Project
-[First_Webpage](https://wemiibidun.github.io/my_first_webpage/)
+[Web_Developer Profile](https://wemiibidun.github.io/my_first_webpage/)
 
 
 ## Status
