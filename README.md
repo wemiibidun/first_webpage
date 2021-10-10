@@ -1,38 +1,53 @@
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_first_webpage)
+![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 ## Hi & Welcome! 👋
 
-This is my first webpage. This was created using CSS and HTML
+This is a tindog project which I created with HTML and styled with CSS
 
-**Aim**
-The aim of this project was to create a responsive webpage that showcases my skills, hobbies and how to contact me  
 
-**What I learnt**
+## Table of contents
+* [Project Aim](#project-aim)
+* [Screenshot](#screenshot)
+* [Lessons Learnt](#lessons-learnt)
+* [Take Home](#my-take-home)
+* [Link to Published Resume](#link-to-published-resume)
+* [Status](#status)
+* [Contact](#contact)
+
+
+## Project Aim
+The aim of this project was to create a responsive webpage that showcases my skills, hobbies and how to contact me 
+
+## Screenshot
+![Sample image](https://github.com/wemiibidun/tin_dog_project/blob/master/tin_dog.png)
+
+
+## Lessons Learnt
 
 - In this project, I learnt how to create different classes and divs
 
 - I understood the differences between `padding` `margin` and `border`  and their importance in a webpage
 
-- I learnt how to insert a fav icon and google font to my HTML page
+- I learnt how to insert a favicon and google font to my HTML page
 
 - I also learnt how to insert footer links and buttons
 
 
-**My TakeHome**
 
-- In this project, understanding the right `font-size` `padding` `margin` `color` and `line-height` to use for all the divs was very important. Sometimes it might take a little bit of research and trials to finally get what you need.
+## My Take Home
+
+-- In this project, understanding the right `font-size` `padding` `margin` `color` and `line-height` to use for all the divs was very important. Sometimes it might take a little bit of research and trials to finally get what you need.
 
 - This was a fun project for me. I learnt a lot about CSS styles
 
 
-
-**Direct link to this Github project and my Blog Page Documentation:**
-
+## Link to Published Resume
 [First_Webpage](https://wemiibidun.github.io/my_first_webpage/)
 
-[Code With Me](http://www.wemiibidun.com/search/label/coding)
 
-**Feedback**
+## Status
+Project is: _Complete_
 
-Feedback is always welcome. If you have any to give, please email me via wemiibidun@gmail.com
-
-
-**Cheers!!!** 😊
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
