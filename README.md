@@ -1,13 +1,14 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_first_webpage)
 ![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/my_first_webpage)
 
-## Hi & Welcome! 👋
+## Web Developer Profile Webpage
 
 This is a sample web developer portfolio website developed and designed with HTML, CSS and Bootstrap
 
 ## Table of contents
 * [Project Aim](#project-aim)
 * [Screenshot](#screenshot)
+* [Technologies](#technologies-language-library-and-framework)
 * [Lessons Learnt](#lessons-learnt)
 * [Take Home](#my-take-home)
 * [Link to Deployed Project](#link-to-deployed-project)
@@ -21,6 +22,10 @@ The aim of this project was to create a responsive webpage that showcases my ski
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/my_first_webpage/blob/master/webpage_screenshot.png)
 
+
+## Technologies (Language, Library and Framework)
+* HTML
+* CSS
 
 ## Lessons Learnt
 
