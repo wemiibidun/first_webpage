@@ -3,7 +3,7 @@
 
 ## Hi & Welcome! 👋
 
-This is a sample web developer portfolio website
+This is a sample web developer portfolio website developed and designed with HTML, CSS and Bootstrap
 
 ## Table of contents
 * [Project Aim](#project-aim)
