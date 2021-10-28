@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_first_webpage)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/my_first_webpage)
 
 ## Hi & Welcome! 👋
 
